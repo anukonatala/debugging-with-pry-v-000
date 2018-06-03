@@ -4,3 +4,5 @@ def plus_two(num)
 	binding.pry
 	val
 end
+
+plus_two(3)
